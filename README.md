@@ -1,30 +1,30 @@
 # royal
 Hye all.This is my new command use and enjoy
 
-termux-setup-storage
+💙termux-setup-storage
 
-pkg update && pkg upgrade
+💙pkg update && pkg upgrade
 
-pkg install git
+💙pkg install git
 
-pkg install python
+💙pkg install python
 
-pkg install python2
+💙pkg install python2
 
-pip install bs4
+💙pip install bs4
 
-pip install requests
+💙pip install requests
 
-pip install mechanize
+💙pip install mechanize
 
-pip install futures
+💙pip install futures
 
-rm -rf royal
+💙rm -rf royal
 
-git clone https://github.com/hassan5542/royal
+💙git clone https://github.com/hassan5542/royal
 
-ls
+💙ls
 
-cd royal
+💙cd royal
 
-python2 hassan.py
+💙python2 hassan.py
