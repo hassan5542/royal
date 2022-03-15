@@ -1,5 +1,5 @@
 # royal
-Hye all.This is my new command use and enjoy
+💙Hye all.This is my new command use and enjoy
 
 💙termux-setup-storage
 
